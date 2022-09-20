@@ -1,5 +1,5 @@
 # spider_reverse_demo
 ## 逆向练手案例
-本项目仅供学习交流，其他任何用途造成的后果自己本人承担。
+本项目仅供学习交流，其他任何用途造成的后果自己承担。
 
 博客园逆向分析：https://www.cnblogs.com/hkwJsxl/category/2217477.html
